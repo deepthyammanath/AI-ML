@@ -1,0 +1,3015 @@
+ANNUAL REPORT 2025-26
+170
+THE RESERVE BANK’S  
+ACCOUNTS FOR 2025-26
+XII
+XII.1 The balance sheet size increased by 
+₹15,71,699.15 crore, i.e., 20.6 per cent from 
+₹76,25,421.93 crore as on March 31, 2025, to 
+₹91,97,121.08 crore as on March 31, 2026. 
+Increase on assets side was due to rise 
+in domestic investments, gold and foreign 
+investments by 44.9 per cent, 63.8 per cent and 
+7.9 per cent, respectively. On liabilities side, 
+revaluation accounts, notes issued, deposits 
+and other liabilities increased by 63.4 per cent, 
+11.8 per cent, 11.6 per cent and 21.1 per cent, 
+respectively. Domestic assets constituted 29.1 per 
+cent and foreign currency assets, gold (including 
+Gold Deposit and gold held in India), loans and 
+advances to financial institutions outside India, 
+constituted 70.9 per cent of total assets as on 
+March 31, 2026, as against 25.7 per cent and 74.3 
+per cent, respectively, as on March 31, 2025.
+XII.2 	 A provision of ₹1,09,379.64 crore was 
+made and transferred to Contingency Fund 
+(CF). No provision was made towards Asset 
+Development Fund (ADF). Trends in income, 
+expenditure, net income and surplus transferred 
+to the Central Government are given in Table XII.1.
+XII.3 Independent Auditors’ Report, Balance 
+Sheet and Income Statement for the year 
+ended March 31, 2026 along with Schedules, 
+Statement of Significant Accounting Policies and 
+supporting Notes to Accounts are given in ensuing 
+paragraphs.
+The Reserve Bank’s balance sheet size as on March 31, 2026, increased by 20.6 per cent year on year. Income for 
+the year increased by 26.4 per cent and expenditure increased by 102.4 per cent. The year ended with an overall 
+surplus of ₹2,86,588.46 crore as against ₹2,68,590.07 crore in the previous year, showing an increase of 6.7 per 
+cent.
+Table XII.1: Trends in Income, Expenditure, Net Income and  
+Surplus Transferred to the Central Government
+(Amount in ₹ crore)
+Item
+2021-22
+2022-23
+2023-24
+2024-25
+2025-26
+1
+2
+3
+4
+5
+6
+a)	 Income 
+1,60,112.13
+2,35,457.26
+2,75,572.32
+3,38,308.09
+4,27,684.15
+b)	 Total Expenditure1
+1,29,800.682
+1,48,037.043
+64,694.334
+69,714.025
+1,41,091.696
+c)	 Net Income (a-b)
+30,311.45
+87,420.22
+2,10,877.99
+2,68,594.07
+2,86,592.46
+d)	 Transfer to funds7
+4.00
+4.00
+4.00
+4.00
+4.00
+e)	 Surplus transferred to the Central Government (c-d)
+30,307.45
+87,416.22
+2,10,873.99
+2,68,590.07
+2,86,588.46
+Notes:	1.	 Include provisions towards CF and ADF. 
+	
+2.	 Includes a provision of ₹1,14,567.01 crore and ₹100 crore towards transfer to CF and ADF, respectively.
+	
+3.	 Includes provision of ₹1,30,875.75 crore towards transfer to CF.
+	
+4.	 Includes provision of₹42,819.91 crore towards transfer to CF.
+	
+5.	 Includes a provision of ₹44,861.70 crore towards transfer to CF.
+	
+6.	 Includes a provision of ₹1,09,379.64 crore towards transfer to CF.
+	
+7.	 Each year an amount of ₹1 crore each has been transferred to the National Industrial Credit (Long Term Operations) Fund, the 
+National Housing Credit (Long Term Operations) Fund, the National Rural Credit (Long Term Operations) Fund and the National Rural 
+Credit (Stabilisation) Fund.
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+171
+ INDEPENDENT AUDITORS’ REPORT
+To,
+The President of India 
+Report on Audit of Financial Statements of the Reserve Bank of India 
+Opinion
+We, the undersigned Auditors of the Reserve Bank of India (hereinafter referred to as the “Bank”), do hereby report to the 
+Central Government upon the Balance Sheet of the Bank as on March 31, 2026, the Income Statement read with Schedules and 
+Significant Accounting Policies as at and for the year ended on that date (hereinafter referred to as “Financial Statements”), which 
+have been audited by us.
+In our opinion and to the best of our information and according to explanations given to us and as shown by the books of accounts 
+of the Bank, the Balance Sheet read with Schedules and Significant Accounting Policies is a full and fair Balance Sheet containing 
+all necessary particulars and is properly drawn up in accordance with the requirements of the provisions of the Reserve Bank of 
+India Act, 1934 (“the RBI Act, 1934”) and Regulations framed thereunder, as amended, so as to exhibit true and correct view of 
+the state of affairs of the Bank as on March 31, 2026 and its results of operations for the year ended on that date.
+Basis for Opinion 
+We conducted our audit of the aforesaid Financial Statements in accordance with the Standards on Auditing (“SAs”) issued by 
+the Institute of Chartered Accountants of India (“ICAI”). Our responsibilities under those Standards are further described in the 
+Auditors’ Responsibilities for the Audit of the Financial Statements section of our report. We are independent of the Bank in 
+accordance with the Code of Ethics issued by the ICAI together with the ethical requirements that are relevant to our audit of the 
+Financial Statements under the provisions of the Reserve Bank of India Act, 1934 and Regulations framed thereunder, and we 
+have fulfilled our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe that 
+the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion on the Financial Statements. 
+Information Other than the Financial Statements and Auditor’s Report Thereon
+The Management is responsible for the other information. The other information comprises the information included in the Notes 
+to Accounts but does not include the Financial Statements and our auditors’ report thereon. 
+Our opinion on the Financial Statements does not cover the other information and we do not express any form of assurance 
+conclusion thereon. 
+In connection with our audit of the Financial Statements, our responsibility is to read the other information and, in doing so, 
+consider whether the other information is materially inconsistent with the Financial Statements or our knowledge obtained in 
+the audit or otherwise appears to be materially misstated. If, based on the work we have performed, we conclude that there is 
+a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+Responsibilities of Management and Those Charged with Governance for the Financial Statements
+The Bank’s Management and Those Charged with Governance for the Financial Statements are responsible for the preparation 
+of the Financial Statements that give a true and correct view of the state of affairs and results of operations of the Bank in 
+accordance with the requirements of the provisions of the RBI Act, 1934 and Regulations framed thereunder and the accounting 
+policies and practices followed by the Bank. This responsibility also includes maintenance of adequate accounting records for 
+safeguarding of the assets of the Bank and preventing and detecting frauds and other irregularities; selection and application of 
+appropriate accounting policies; making judgements and estimates that are reasonable and prudent; and design, implementation 
+and maintenance of internal control relevant to the preparation and presentation of the Financial Statements that give a true and 
+correct view and are free from material misstatement, whether due to fraud or error. The Management is also responsible for 
+assessing the Bank’s ability to continue as a ‘Going Concern’ and using the ‘Going Concern’ basis of accounting. As per the RBI 
+Act, 1934, the Bank can be liquidated only by the Central Government by order and in any other manner as it may direct. 
+Those Charged with Governance are also responsible for overseeing the Bank’s financial reporting process.
+Auditors' Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the Financial Statements as a whole are free from material 
+misstatement, whether due to fraud or error, and to issue an auditors’ report that includes our opinion. Reasonable assurance 
+is a high level of assurance but is not a guarantee that an audit conducted in accordance with SAs will always detect a material 
+misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the 
+ANNUAL REPORT 2025-26
+172
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these Financial 
+Statements. Reasonable assurance includes aforesaid concepts of materiality and use of test-checks in line with the Standards 
+on Auditing.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional skepticism throughout 
+the audit. We also:
+• 
+Identify and assess the risks of material misstatement of the Financial Statements, whether due to fraud or error, design and 
+perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a 
+basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting 
+from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal 
+control. 
+• 
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the 
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Bank’s internal financial control. 
+• 
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related 
+disclosures made by the Management. 
+• 
+Conclude on the appropriateness of Management’s use of the Going Concern basis of accounting and, based on the audit 
+evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on 
+the Bank’s ability to continue as a Going Concern. If we conclude that a material uncertainty exists, we are required to draw 
+attention in our auditors’ report to the related disclosures in the Financial Statements or, if such disclosures are inadequate, 
+to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditors’ report. 
+• 
+Evaluate the overall presentation, structure, and content of the Financial Statements, are drawn up in accordance with 
+the requirements of the provisions of the RBI Act, 1934 and Regulations framed thereunder and whether the Financial 
+Statements represent the underlying transactions and events in a manner that achieves fair presentation.
+We communicate with Those Charged with Governance regarding, among other matters, the planned scope and timing of the 
+audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+We also provide Those Charged with Governance with a statement that we have complied with relevant ethical requirements 
+regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to 
+bear on our independence, and where applicable, related safeguards.
+Other Matters
+(a)	 We report that we have called for information and explanations from the Bank considered necessary for the purpose of our 
+audit and such information and explanations have been given to our satisfaction. 
+(b)	 We also report that the Financial Statements include the accounts of twenty-five accounting units of the Bank which have 
+been audited by Statutory Branch Auditors. The Independent Auditors’ Report on Financial Information of these accounting 
+units has been furnished to us and our opinion on the Financial Statements, in so far as it relates to the amounts and 
+disclosures included in respect of these accounting units, are based solely on the report of such auditors. 
+Our opinion is not modified in respect of these matters.
+ For Sorab S. Engineer & Co.
+ Chartered Accountants
+(ICAI Firm Registration No. 110417W)
+For Kalyaniwalla & Mistry LLP
+Chartered Accountants
+(ICAI Firm Registration No. 104607W/W100166)
+ Peshwan N. Anklesaria
+ Partner
+ Membership No. 131394
+ UDIN: 26131394VUUAKO2879
+Daraius Z. Fraser
+Partner
+Membership No. 042454
+UDIN: 26042454PJZBLW8066
+Place: Mumbai
+Date: May 22, 2026
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+173
+RESERVE BANK OF INDIA 
+BALANCE SHEET AS ON MARCH 31, 2026
+(Amount in ₹ crore)
+Liabilities
+Schedule
+2024-25
+2025-26
+Assets
+Schedule
+2024-25
+2025-26
+Capital
+5.00
+5.00 Assets of Banking Department 
+(BD)
+Reserve Fund
+6,500.00
+6,500.00 Notes, Rupee Coin, Small Coin
+6
+11.26
+11.72
+Other Reserves
+1
+242.00
+244.00 Gold-BD
+7
+4,31,624.80
+7,06,162.36
+Deposits
+2
+17,17,404.03
+19,16,692.11 Investments-Foreign-BD
+8
+14,32,572.10 15,32,082.73
+Risk Provisions
+Investments-Domestic-BD
+9
+15,58,573.83 22,58,591.14
+Contingency Fund
+5,42,426.96
+5,68,333.19 Bills Purchased and Discounted
+0.00
+0.00
+Asset Development Fund
+22,974.68
+22,974.68 Loans and Advances
+10
+4,34,710.24
+4,77,218.69
+Revaluation Accounts
+3
+13,26,793.43 21,68,530.23 Investment in Subsidiaries
+11
+2,063.60
+2,063.60
+Other Liabilities
+4
+3,21,248.79
+3,89,074.99 Other Assets
+12
+78,039.06
+96,223.96
+Liabilities of Issue Department
+Assets of Issue Department (ID)
+(As backing for Notes Issued)
+Notes Issued
+5
+36,87,827.04 41,24,766.88 Gold-ID
+7
+2,36,537.54
+3,88,147.13
+Rupee Coin
+328.76
+468.22
+Investments-Foreign-ID
+8
+34,50,960.74 37,36,151.53
+Investments-Domestic-ID
+9
+0.00
+0.00
+Domestic Bills of Exchange and 
+other Commercial Papers
+0.00
+0.00
+36,87,827.04 41,24,766.88
+Total Liabilities 76,25,421.93 91,97,121.08
+Total Assets 76,25,421.93 91,97,121.08
+Sangeeta Lalwani
+Chief General Manager-In-Charge
+Rohit Jain
+Deputy Governor
+Shirish Chandra Murmu
+Deputy Governor
+Poonam Gupta
+Deputy Governor
+Swaminathan J
+Deputy Governor
+Sanjay Malhotra
+Governor
+ANNUAL REPORT 2025-26
+174
+RESERVE BANK OF INDIA
+INCOME STATEMENT FOR THE YEAR ENDED MARCH 31, 2026
+(Amount in ₹ crore)
+INCOME
+Schedule
+2024-25
+2025-26
+Interest
+13
+2,10,687.64
+2,35,579.79
+Other Income
+14
+1,27,620.45
+1,92,104.36
+Total
+3,38,308.09
+4,27,684.15
+EXPENDITURE
+Printing of Notes
+6,372.82
+4,875.20
+Expenditure on Remittance of Currency
+151.02
+170.82
+Agency Charges
+15
+3,669.56
+4,880.05
+Employee Cost
+9,146.71
+10,136.31
+Interest
+2.44
+2.71
+Postage and Telecommunication Charges
+106.43
+120.41
+Printing and Stationery
+24.24
+23.40
+Rent, Taxes, Insurance, Lighting, etc.
+274.65
+300.13
+Repairs and Maintenance
+177.55
+191.55
+Directors’ and Local Board Members’ Fees and Expenses
+4.80
+5.85
+Auditors’ Fees and Expenses
+7.24
+8.42
+Law Charges
+17.67
+24.04
+Depreciation
+623.63
+779.20
+Miscellaneous Expenses
+4,273.56
+10,193.96
+Provisions
+44,861.70
+1,09,379.64
+Total
+69,714.02
+1,41,091.69
+Available Balance
+2,68,594.07
+2,86,592.46
+Less:
+(a)	
+Contribution to:
+	
+(i)	
+National Industrial Credit (Long Term Operations) Fund
+1.00
+1.00
+	
+(ii)	
+National Housing Credit (Long Term Operations) Fund
+1.00
+1.00
+(b)	
+Transferable to NABARD:
+	
+(i)	
+National Rural Credit (Long Term Operations) Fund1
+1.00
+1.00
+	
+(ii)	
+National Rural Credit (Stabilisation) Fund1
+1.00
+1.00
+(c)	
+Others
+0.00
+0.00
+Surplus payable to the Central Government
+2,68,590.07
+2,86,588.46
+1. These funds are maintained by the National Bank for Agriculture and Rural Development (NABARD).
+Sangeeta Lalwani
+Chief General Manager-In-Charge
+Rohit Jain
+Deputy Governor
+Shirish Chandra Murmu
+Deputy Governor
+Poonam Gupta
+Deputy Governor
+Swaminathan J
+Deputy Governor
+Sanjay Malhotra
+Governor
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+175
+SCHEDULES FORMING PART OF BALANCE SHEET AND INCOME STATEMENT
+(Amount in ₹ crore)
+2024-25
+2025-26
+Schedule 1:
+Other Reserves
+(i)	
+National Industrial Credit (Long Term Operations) Fund
+34.00
+35.00
+(ii)	
+National Housing Credit (Long Term Operations) Fund
+208.00
+209.00
+Total
+242.00
+244.00
+Schedule 2:
+Deposits
+(a)	
+Government
+	
+(i)	
+Central Government
+5,000.85
+5,000.48
+	
+(ii)	
+State Governments
+42.48
+43.41
+Sub total
+5,043.33
+5,043.89
+(b)	
+Banks
+	
+(i)	
+Scheduled Commercial Banks
+9,26,001.43
+7,53,866.83
+	
+(ii)	
+Scheduled State Co-operative Banks
+8,439.50
+6,922.12
+	
+(iii)	
+Other Scheduled Co-operative Banks
+11,606.14
+9,859.62
+	
+(iv)	
+Non-Scheduled State Co-operative Banks
+6,569.07
+7,347.63
+	
+(v)	
+Other Banks
+38,872.35
+32,128.28
+Sub total
+9,91,488.49
+8,10,124.48
+(c)	
+Financial Institutions Outside India
+	
+(i)	
+Repo-Foreign
+1,11,579.53
+1,61,992.51
+	
+(ii)	
+Cash Margin-Foreign
+1,092.49
+2,793.34
+Sub total
+1,12,672.02
+1,64,785.85
+(d)	
+Others
+	
+(i)	
+Administrators of RBI Employee PF A/c
+4,902.84
+5,339.62
+	
+(ii)	
+Depositor Education and Awareness Fund
+97,545.12
+1,12,564.29
+	
+(iii)	
+Balances of Foreign Central Banks
+348.37
+1,030.26
+	
+(iv)	
+Balances of Indian Financial Institutions
+10,159.58
+13,027.35
+	
+(v)	
+Balances of International Financial Institutions
+501.14
+579.31
+	
+(vi)	
+Mutual Funds
+1.32
+1.32
+	
+(vii)	 Others
+4,94,741.82
+8,04,195.74
+Sub total
+6,08,200.19
+9,36,737.89
+Total
+17,17,404.03
+19,16,692.11
+Schedule 3:
+Revaluation Accounts
+(i)	
+Currency and Gold Revaluation Account (CGRA)
+13,02,964.89
+21,68,530.23
+(ii)	
+Investment Revaluation Account-Foreign Securities (IRA-FS)
+0.00
+0.00
+(iii)	
+Investment Revaluation Account-Rupee Securities (IRA-RS)
+16,843.35
+0.00
+(iv)	
+Foreign Exchange Forward Contracts Valuation Account (FCVA)
+6,985.19
+0.00
+Total
+13,26,793.43
+21,68,530.23
+Schedule 4:
+Other Liabilities
+(i)	
+Provision for Forward Contracts Valuation Account (PFCVA)
+0.00
+43,403.23
+(ii)	
+Provision for Payables
+4,088.31
+7,682.46
+(iii)	
+Gratuity and Superannuation Fund
+36,470.57
+39,405.30
+(iv)	
+Surplus Payable to the Central Government
+2,68,590.07
+2,86,588.46
+(v)	
+Bills Payable
+0.09
+6.80
+(vi)	
+Miscellaneous
+12,099.75
+11,988.74
+Total
+3,21,248.79
+3,89,074.99
+Schedule 5:
+Notes Issued
+(i)	
+Notes held in the Banking Department
+11.19
+11.67
+(ii)	
+Notes in Circulation
+36,86,799.39
+41,23,983.55
+(iii)	
+CBDC-W
+0.00
+0.00
+(iv)	
+CBDC-R
+1,016.46
+771.66
+Total
+36,87,827.04
+41,24,766.88 
+ANNUAL REPORT 2025-26
+176
+2024-25
+2025-26
+Schedule 6:
+Notes, Rupee Coin, Small Coin
+(i)	
+Notes
+11.19
+11.67
+(ii)	
+Rupee Coin
+0.06
+0.04
+(iii)	
+Small Coin
+0.01
+0.01
+Total
+11.26
+11.72
+Schedule 7:
+Gold
+(a)	
+Banking Department
+	
+(i)	
+Gold
+4,17,205.49
+7,02,679.17
+	
+(ii)	
+Gold Deposit
+14,419.31
+3,483.19
+Sub total
+4,31,624.80
+7,06,162.36
+(b)	
+Issue Department
+2,36,537.54
+3,88,147.13
+Total
+6,68,162.34
+10,94,309.49
+Schedule 8:
+Investments-Foreign
+(i)	
+Investments-Foreign-BD
+14,32,572.10
+15,32,082.73
+(ii)	
+Investments-Foreign-ID
+34,50,960.74
+37,36,151.53
+Total
+48,83,532.84
+52,68,234.26
+ Schedule 9:
+Investments-Domestic
+(i)	
+Investments-Domestic-BD
+15,58,573.83
+22,58,591.14
+(ii)	
+Investments-Domestic-ID
+0.00
+0.00
+Total
+15,58,573.83
+22,58,591.14
+Schedule 10:
+Loans and Advances
+(a)	
+Loans and Advances to:
+	
+(i)	
+Central Government
+0.00
+0.00
+	
+(ii)	
+State Governments
+32,688.09
+32,506.59
+Sub total
+32,688.09
+32,506.59
+(b)	
+Loans and Advances to:
+	
+(i)	
+Scheduled Commercial Banks
+2,53,663.00
+2,56,062.00
+	
+(ii)	
+Scheduled State Co-operative Banks
+0.00
+0.00
+	
+(iii)	
+Other Scheduled Co-operative Banks
+0.00
+0.00
+	
+(iv)	
+Non-Scheduled State Co-operative Banks
+0.00
+0.00
+	
+(v)	
+NABARD
+0.00
+0.00
+	
+(vi)	
+Others
+36,426.09
+26,190.46
+Sub total
+2,90,089.09
+2,82,252.46
+(C)	
+Loans and Advances to Financial Institutions Outside India
+	
+(i)	
+Reverse Repo-Foreign
+1,11,579.53
+1,61,992.51
+	
+(ii)	
+Cash Margin-Foreign
+353.53
+467.13
+Sub total
+1,11,933.06
+1,62,459.64
+Total
+4,34,710.24
+4,77,218.69
+Schedule 11:
+Investment in Subsidiaries/Associates
+(i)	
+Deposit Insurance and Credit Guarantee Corporation (DICGC)
+50.00
+50.00
+(ii)	
+Bharatiya Reserve Bank Note Mudran (P) Ltd. (BRBNMPL)
+1,800.00
+1,800.00
+(iii)	
+Reserve Bank Information Technology (P) Ltd. (ReBIT)
+50.00
+50.00
+(iv)	
+National Centre for Financial Education (NCFE)
+30.00
+30.00
+(v)	
+Indian Financial Technology & Allied Services (IFTAS)
+33.60
+33.60
+(vi)	
+Reserve Bank Innovation Hub (RBIH)
+100.00
+100.00
+Total
+2,063.60
+2,063.60
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+177
+2024-25
+2025-26
+Schedule 12:
+Other Assets
+(i)	
+Fixed Assets (net of accumulated depreciation)
+2,512.81
+6,378.96
+(ii)	
+Accrued Income (a + b)
+64,001.01
+83,380.28
+	
+a.	
+on loans to employees
+479.85
+550.63
+	
+b.	
+on other items
+63,521.16
+82,829.65
+(iii)	
+Swap Amortisation Account (SAA)
+0.00
+0.00
+(iv)	
+Revaluation of Forward Contracts Account (RFCA)
+6,985.19
+0.00
+(v)	
+Miscellaneous
+4,540.05
+6,464.72
+ Total
+78,039.06
+96,223.96
+Schedule 13:
+Interest
+(a)	
+Domestic Sources
+	
+(i)	
+Interest on holding of Rupee Securities
+85,524.67
+1,17,739.57
+	
+(ii)	
+Net Interest on LAF Operations
+-4,739.82
+-8,681.73
+	
+(iii)	
+Interest on SDF
+-5,844.65
+-10,599.55
+	
+(iv)	
+Interest on MSF Operations
+464.22
+118.31
+	
+(v)	
+Interest on Loans and Advances
+1,922.77
+1,787.94
+Sub total
+77,327.19
+1,00,364.54
+(b)	
+Foreign Sources
+	
+(i)	
+Interest Income from Foreign Securities
+97,006.66
+1,07,678.67
+	
+(ii)	
+Net Interest on Repo/ Reverse Repo Transactions
+158.59
+129.42
+	
+(iii)	
+Interest on Deposits
+36,195.20
+27,407.16
+ Sub total
+1,33,360.45
+1,35,215.25
+ Total
+2,10,687.64
+2,35,579.79
+Schedule 14:
+Other Income
+(a)	
+Domestic Sources
+	
+(i)	
+Exchange
+	
+0.00
+0.00
+	
+(ii)	
+Discount
+0.00
+0.00
+	
+(iii)	
+Commission
+4,131.64
+4,523.37
+	
+(iv)	
+Rent Realised
+9.00
+14.05
+	
+(v)	
+Profit/ Loss on sale and redemption of Rupee Securities
+1,105.16
+886.45
+	
+(vi)	
+Depreciation on Rupee Securities inter-portfolio transfer
+-69.50
+-45.49
+	
+(vii)	 Amortisation of premium/ discount on Rupee Securities
+-2,681.71
+-5,024.58
+	
+(viii)	 Profit/ Loss on sale of Bank’s Property
+2.16
+13.32
+	
+(ix)	
+Provision no longer required and Miscellaneous Income
+-353.40
+-703.05
+Sub total
+2,143.35
+-335.93
+(b)	
+Foreign Sources
+	
+(i)	
+Amortisation of premium/ discount on Foreign Securities
+13,686.63
+16,354.18
+	
+(ii)	
+Profit/ Loss on sale and redemption of Foreign Securities
+661.64
+3,503.49
+	
+(iii)	
+Exchange gain/ loss from Foreign Exchange Transactions
+1,11,143.38
+1,68,906.37
+	
+(iv)	
+Miscellaneous Income
+-14.55
+3,676.25
+Sub total
+1,25,477.10
+1,92,440.29
+Total
+1,27,620.45
+1,92,104.36
+Schedule 15:
+Agency Charges
+(i)	
+Agency Commission on Government Transactions
+3,531.76
+4,605.81
+(ii)	
+Underwriting Commission paid to the Primary Dealers
+15.78
+86.34
+(iii)	
+Sundries (Handling charges and turnover commission paid to banks for 
+Relief/ Savings Bonds subscriptions; SBLA, etc.)
+6.47
+11.18
+(iv)	
+Fees paid to the External Asset Managers, Custodians, Brokers, etc.
+115.55
+176.72
+Total
+3,669.56
+4,880.05
+ANNUAL REPORT 2025-26
+178
+STATEMENT OF SIGNIFICANT ACCOUNTING 
+POLICIES FOR THE YEAR ENDED MARCH 31, 
+2026
+(a)	 General
+1.1	 The Reserve Bank was established under 
+the Reserve Bank of India Act, 1934 (RBI Act, 
+1934) “to regulate the issue of Bank notes and 
+the keeping of reserves with a view to securing 
+monetary stability in India and generally to operate 
+the currency and credit system of the country to 
+its advantage”.
+1.2	 The RBI Act, 1934 requires that the issue of 
+Bank notes should be conducted by the Reserve 
+Bank in an Issue Department which shall be 
+separated and kept wholly distinct from the Banking 
+Department. The assets of the Issue Department 
+shall not be subject to any liability other than the 
+liabilities of the Issue Department. The assets of 
+the Issue Department shall consist of gold coins, 
+gold bullion, foreign securities, rupee coins and 
+rupee securities to such aggregate amount as is 
+not less than the total of the liabilities of the Issue 
+Department. The RBI Act, 1934 requires that the 
+liabilities of the Issue Department shall be an 
+amount equal to the total of the amount of the 
+currency notes of the Government of India and 
+Bank notes in circulation.
+(b) Significant Accounting Policies
+2.1 	Convention
+The 
+Financial 
+Statements 
+are 
+prepared 
+in accordance with the RBI Act, 1934 and 
+notifications issued thereunder, in the form, 
+prescribed by the Reserve Bank of India General 
+Regulations, 1949. These are based on historical 
+cost except where it is modified to reflect 
+revaluation and/or amortisation. The accounting 
+policies followed in preparing financial statements 
+are consistent with those followed in the previous 
+year unless otherwise stated.
+2.2 	Revenue Recognition
+a)	
+Income and expenditure are recognised on 
+accrual basis except penal interest charged 
+from banks which is accounted for only when 
+there is certainty of realisation. Dividend 
+income on shares is recognised on accrual 
+basis when the right to receive is established. 
+b)	
+Balances 
+unclaimed 
+and 
+outstanding 
+for more than three clear consecutive 
+accounting years in certain transit accounts 
+including Drafts Payable Account, Payment 
+Orders Account, Sundry Deposit Account-
+Miscellaneous-BD, Remittance Clearance 
+Account, Earnest Money Deposit Account 
+and Security Deposit Account are reviewed 
+and written back to income. Claims, if any, 
+are considered and charged against income 
+in the year of payment.
+c)	
+Income and expenditure in foreign currency 
+are recorded at exchange rates prevailing on 
+the day.
+d)	
+Exchange gains/ losses on sale of foreign 
+currencies and gold are accounted for 
+using the weighted average cost method for 
+arriving at the cost.
+2.3 Gold & Foreign Currency Assets and 
+Liabilities
+Transactions in gold and foreign currency assets 
+and liabilities are accounted for on settlement 
+date basis.
+a)	
+Gold
+	
+Gold (including Gold Deposit) is revalued on 
+a daily basis at ninety (90) per cent of the 
+London Bullion Market Association (LBMA) 
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+179
+gold price in US dollar and Rupee-US dollar 
+market exchange rate. Unrealised valuation 
+gains/ losses are accounted for in Currency 
+and Gold Revaluation Account (CGRA).
+b)	
+Foreign Currency Assets and Liabilities
+	
+All foreign currency assets and liabilities 
+(excluding foreign currency received under 
+swaps that are in the nature of repos 
+and contracts where the rates are fixed 
+contractually) are translated on a daily basis 
+at the prevailing market exchange rates. 
+Unrealised gains/losses arising from such 
+translation of foreign currency assets and 
+liabilities are accounted for in CGRA.
+	
+Foreign securities, other than Treasury 
+Bills (T-Bills), Commercial Papers and 
+certain ‘Held to Maturity’ securities [such 
+as investments in notes issued by the 
+International Monetary Fund and bonds 
+issued by India Infrastructure Finance 
+Company (IIFC), UK which are valued at 
+cost] are marked-to-market on a daily basis. 
+Unrealised 
+gains/losses 
+on 
+revaluation 
+are recorded in ‘Investment Revaluation 
+Account-Foreign Securities’ (IRA-FS). Credit 
+balance in IRA-FS is carried forward to 
+subsequent accounting year. Debit balance 
+in IRA-FS, if any, on the balance sheet date, 
+is charged to Contingency Fund (CF) and the 
+same is reversed on the first working day of 
+the following accounting year.
+	
+Foreign T-Bills and Commercial Papers 
+are carried at cost as adjusted by daily 
+amortisation of discount/premium. Premium/
+discount on foreign securities is amortised 
+daily. Profit/loss on sale of foreign securities 
+is recognised with respect to the amortised 
+book value.
+c)	
+Forward/ Swap Contracts
+	
+Forward contracts entered into by the 
+Reserve Bank are revalued on a half-yearly 
+basis. Mark-to-market net gain is credited 
+to ‘Foreign Exchange Forward Contracts 
+Valuation Account’ (FCVA) with contra 
+debit to ‘Revaluation of Forward Contracts 
+Account’ (RFCA) and mark-to-market net 
+loss is debited to FCVA with contra credit to 
+‘Provision for Forward Contracts Valuation 
+Account’ (PFCVA). On maturity of the 
+contract, actual gain or loss is recognised 
+in the income account and unrealised gains/
+losses previously recorded in FCVA, RFCA 
+and PFCVA are reversed. At the time of 
+half-yearly revaluation, balance in FCVA 
+and RFCA or PFCVA as on that day is 
+reversed and fresh revaluation is done for all 
+outstanding forward contracts.
+	
+Debit balance in FCVA, if any, on the balance 
+sheet date, is charged to the CF and reversed 
+on the first working day of the following year. 
+The balance in RFCA and PFCVA represents 
+net unrealised gains and losses, respectively, 
+on valuation of forward contracts.
+	
+In case of swaps at off-market rates that are 
+in the nature of repo, the difference between 
+future contract rate and the rate at which the 
+contract is entered into is amortised over 
+the period of the contract and recorded in 
+income account with contra entry in ‘Swap 
+Amortisation 
+Account’ 
+(SAA). 
+Amounts 
+recorded in SAA are reversed on maturity of 
+underlying contracts, the amounts received 
+under these swaps are not subject to periodic 
+revaluation.
+	
+FCVA forms part of ‘Revaluation Accounts’, 
+PFCVA forms part of ‘Other Liabilities’ and 
+RFCA and SAA form part of ‘Other Assets’.
+ANNUAL REPORT 2025-26
+180
+d)	
+Repurchase Transactions
+	
+The Reserve Bank participates in foreign 
+Repurchase transactions (Repo and Reverse 
+Repo) as part of Reserve Management 
+operations. Repo transactions are treated 
+as borrowing of foreign currencies and are 
+shown under ‘Deposits’. Reverse Repo 
+transactions are treated as lending of foreign 
+currencies and are shown under ‘Loans and 
+Advances’.
+e)	
+Transactions in Derivatives
+	
+Transactions in derivatives like Interest 
+Rate Futures, Currency Futures, Interest 
+Rate Swaps and Overnight Indexed Swaps 
+undertaken as part of Reserve Management 
+operations are marked-to-market periodically 
+and resultant gain/loss is booked in income 
+account.
+f)	
+Security Lending Transactions
+	
+The Reserve Bank participates in Security 
+Lending transactions as part of Reserve 
+Management operations. The securities 
+lent remain a part of the Reserve Bank’s 
+Investments and continue to be amortised, 
+accrue interest and are marked-to-market.
+2.4	 Transactions 
+in 
+Exchange 
+Traded 
+Currency Derivatives (ETCD)
+ETCD transactions undertaken by the Reserve 
+Bank, as part of its intervention operations, are 
+marked-to-market on a daily basis and resultant 
+gain/ loss is booked in income account.
+2.5	 Domestic Investments
+a)	
+Rupee Securities and Oil Bonds, except 
+T-Bills and those mentioned in (d), are 
+marked-to-market as on the last business 
+day of each week ending Friday and the 
+last business day of each month. Unrealised 
+gains/losses on revaluation are recorded 
+in ‘Investment Revaluation Account-Rupee 
+Securities’ (IRA-RS). Credit balance in IRA-
+RS is carried forward to the subsequent 
+accounting year. Debit balance in IRA-RS, if 
+any, on the balance sheet date, is charged 
+to CF and the same is reversed on the first 
+working day of the following accounting year. 
+On sale/redemption of Rupee Securities/Oil 
+Bonds, valuation gain/loss thereof, lying in 
+IRA-RS, is transferred to income account. 
+Rupee Securities and Oil Bonds are also 
+subjected to daily amortisation. 
+b)	
+T-Bills are carried at cost as adjusted by daily 
+amortisation of discount/premium.
+c)	
+Investments in shares of subsidiaries are 
+valued at cost.
+d)	
+Rupee Securities and Oil Bonds earmarked 
+for various staff funds [like Gratuity and 
+Superannuation 
+Fund, 
+Provident 
+Fund, 
+Leave Encashment Fund, Medical Assistance 
+Fund (MAF)], Depositor Education and 
+Awareness (DEA) Fund and Payments 
+Infrastructure Development Fund (PIDF) 
+are treated as ‘Held to Maturity’ and held at 
+amortised cost.
+e)	
+Transactions in domestic investment are 
+accounted for on settlement date basis.
+2.6 	Liquidity Adjustment Facility (LAF) Repo/ 
+Reverse Repo, Marginal Standing Facility 
+(MSF) and Standing Deposit Facility (SDF)
+LAF Repo and MSF are treated as lending and 
+shown under ‘Loans and Advances’. LAF Reverse 
+Repo and SDF are treated as deposits and shown 
+under ‘Deposits–Others’.
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+181
+2.7 	Fixed Assets
+Fixed Assets are stated at cost less depreciation, 
+except art and paintings and freehold land which 
+are held at cost.
+2.7.1 Fixed Assets other than Land and 
+Buildings
+a)	
+Fixed Assets, costing up to ₹1 lakh (except 
+easily portable electronic assets like laptop/
+e-book reader) are charged to income in the 
+year of acquisition. Easily portable electronic 
+assets, such as laptops, etc. costing more 
+than ₹10,000 are capitalised and depreciation 
+is calculated on monthly pro-rata basis at the 
+applicable rate. 
+b)	
+Individual items of computer software 
+costing more than ₹1 lakh are capitalised, 
+and depreciation is calculated on monthly 
+pro-rata basis at applicable rates. 
+c)	
+Depreciation on fixed assets acquired and 
+capitalised during the accounting year would 
+be reckoned on a monthly pro-rata basis 
+from the month of capitalisation and effected 
+on a half-yearly basis at prescribed rates 
+depending upon the useful life of assets 
+applied.
+d)	
+Depreciation on fixed assets is provided on 
+‘straight-line’ basis depending on the useful 
+life of an asset in the following manner:
+Asset Category
+Useful life
+(Rate of Depreciation)
+1
+2
+Electrical 
+installations, 
+UPS, 
+Motor 
+Vehicles, Furniture, Fixtures, CVPS/ SBS 
+Machines, etc.
+5 years
+(20 per cent)
+Computers, Servers, Micro-processors, 
+Printers, Software, Laptops, e-book reader/ 
+i-Pad, etc.
+3 years
+(33.33 per cent)
+e)	
+Depreciation is provided on half-year end 
+balances of fixed assets on monthly pro-
+rata basis. In case of additions/deletions of 
+assets, depreciation is calculated on monthly 
+pro-rata basis including the month of addition/
+deletion of such assets.
+f)	
+Depreciation on subsequent expenditure:
+i)	
+Subsequent expenditure incurred on 
+an existing fixed asset which has not 
+been fully depreciated in the books of 
+accounts, is depreciated over remaining 
+useful life of the principal asset.
+ii)	
+Subsequent expenditure incurred on 
+modernisation/addition/overhauling 
+of an existing fixed asset, which has 
+already been fully depreciated in the 
+books of accounts, is first capitalised and 
+thereafter, depreciated fully in the year 
+in which the expenditure is incurred.
+2.7.2 Land and Buildings: Accounting treatment 
+in respect of land and buildings is as follows: 
+a)	
+Land
+i.	
+Land acquired on leasehold basis for a 
+period of more than 99 years is treated 
+as on perpetual lease basis. Such leases 
+are considered as freehold properties 
+and accordingly, not subjected to 
+amortisation. 
+ii.	
+Land acquired on lease up to 99 years is 
+amortised over the period of lease. 
+iii.	
+Land acquired on a freehold basis is not 
+subject to any amortisation.
+b)	
+Buildings
+i.	
+The life of all buildings is assumed as 
+30 years and depreciation is charged 
+on a ‘straight-line’ basis over a period 
+of 30 years. In respect of buildings 
+constructed on lease hold land (where 
+the lease period is less than 30 years) 
+depreciation is charged on ‘straight-line’ 
+basis over the lease period of the land.
+ANNUAL REPORT 2025-26
+182
+ii.	
+Impairment of buildings: For assessment 
+of impairment, buildings are classified 
+into two categories, as under:
+ 
+●	
+Buildings which are in use but have 
+been identified for demolition in 
+future or will be discarded in future: 
+The value in use of such buildings 
+is the aggregate of depreciation 
+for the future period up to the date 
+it is expected to be discarded/ 
+demolished. 
+The 
+difference 
+between the book value and 
+aggregate of depreciation so arrived 
+at, is charged as depreciation. 
+ 
+●	
+Buildings 
+which 
+have 
+been 
+discarded/ vacated: These buildings 
+are shown at realisable value (net 
+selling price if the asset is likely to 
+be sold in future) or scrap value 
+less demolition cost (if it is to be 
+demolished). If the resultant amount 
+is negative, then the carrying value 
+of such buildings is shown at ₹1. 
+The difference between book value 
+and realisable value (net selling 
+price)/ scrap value less demolition 
+cost is charged as depreciation. 
+2.8  Employee Benefits
+a)	
+The Reserve Bank contributes monthly 
+at a determined rate to Provident 
+Fund for eligible employees and these 
+contributions are charged to income in 
+year to which it relates. 
+b)	
+Other liability on account of long-term 
+employee benefits is provided based on 
+an actuarial valuation under ‘Projected 
+Unit Credit’ method.
+NOTES TO ACCOUNTS
+XII.4 LIABILITIES OF THE RESERVE BANK 
+XII.4.1 Capital
+The Reserve Bank was constituted as a private 
+shareholders’ bank in 1935 with an initial paid-
+up capital of ₹5 crore. The Reserve Bank was 
+nationalised with effect from January 1, 1949 
+and its entire ownership remains vested with 
+the Government of India. The paid-up capital 
+continues to be ₹5 crore. 
+XII.4.2 Reserve Fund	
+	
+	
+The original Reserve Fund of ₹5 crore was created 
+in terms of Section 46 of the RBI Act, 1934 as 
+contribution from the Central Government for 
+currency liability of the sovereign government 
+taken over by the Reserve Bank. Thereafter, an 
+amount of ₹6,495 crore was credited to this fund 
+out of gains on periodic revaluation of gold up 
+to October 1990, taking it to ₹6,500 crore. The 
+fund has since been static as unrealised gain/ 
+loss on account of valuation of gold and foreign 
+currency is being booked in Currency and Gold 
+Revaluation Account (CGRA) under the head 
+‘Revaluation Accounts’.
+XII.4.3 Other Reserves 
+This includes National Industrial Credit (Long 
+Term Operations) Fund and National Housing 
+Credit (Long Term Operations) Fund.
+a)	
+National 
+Industrial 
+Credit 
+(Long 
+Term 
+Operations) Fund
+	
+This Fund was created in July 1964, in 
+terms of Section 46C of the RBI Act, 1934 
+with an initial corpus of ₹10 crore. Reserve 
+Bank made annual contributions to the Fund 
+for financial assistance to eligible financial 
+institutions. Since 1992-93, ₹1 crore is being 
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+183
+contributed each year to the Fund. The 
+balance in the Fund is ₹35 crore as on March 
+31, 2026.
+b)	
+National 
+Housing 
+Credit 
+(Long 
+Term 
+Operations) Fund
+	
+This Fund was set up in January 1989, in 
+terms of Section 46D of the RBI Act, 1934 
+for extending financial accommodation to 
+the National Housing Bank (NHB). The initial 
+corpus of ₹50 crore has been enhanced 
+by subsequent annual contributions by the 
+Reserve Bank. Since 1992-93, ₹1 crore is 
+being contributed each year to the Fund. 
+The balance in the Fund is ₹209 crore as on 
+March 31, 2026.
+	
+Note: Contribution to other Funds 
+	
+Two other Funds constituted in terms 
+of Section 46A of the RBI Act, 1934, 
+viz., National Rural Credit (Long Term 
+Operations) Fund and National Rural Credit 
+(Stabilisation) Fund are maintained by the 
+National Bank for Agriculture and Rural 
+Development (NABARD) for which, ₹1 crore 
+each is transferred to NABARD every year. 
+XII.4.4 Deposits
+These represent balances maintained with the 
+Reserve Bank by banks, the Central and State 
+Governments, All India Financial Institutions such 
+as, Export Import Bank (EXIM Bank), NABARD, 
+etc., 
+Foreign 
+Central 
+Banks, 
+International 
+Financial Institutions, balances in Administrators 
+of RBI Employee Provident Fund, DEA Fund, 
+amount outstanding against Reverse Repo, SDF, 
+MAF, PIDF, etc. Total deposits increased by 11.6 
+per cent from ₹17,17,404.03 crore as on March 
+31, 2025, to ₹19,16,692.11 crore as on March 31, 
+2026.
+a.	
+Deposits-Government
+	
+The Reserve Bank acts as the banker to the 
+Central Government in terms of Sections 20 
+and 21, and as banker to State Governments 
+by mutual agreement in terms of Section 21A 
+of the RBI Act, 1934. Accordingly, the Central 
+and State Governments maintain deposits 
+with the Reserve Bank. The balances held 
+by the Central and State Governments 
+were ₹5,000.48 crore and ₹43.41 crore, 
+respectively, as on March 31, 2026, as 
+compared to ₹5,000.85 crore and ₹42.48 
+crore, respectively, as on March 31, 2025.
+b.	
+Deposits-Banks
+	
+Banks maintain balances with the Reserve 
+Bank as Cash Reserve Ratio (CRR) and for 
+meeting payment and settlement obligations. 
+Deposits-banks declined by 18.3 per cent 
+from ₹9,91,488.49 crore as on March 31, 
+2025 to ₹8,10,124.48 crore as on March 31, 
+2026, mainly on account of CRR reduction 
+from 4 per cent to 3 per cent of Net Demand 
+and Time Liabilities during the year.
+c.	
+Deposits-Financial Institutions Outside India
+	
+The balance under the head increased by 
+46.3 per cent from ₹1,12,672.02 crore as on 
+March 31, 2025 to ₹1,64,785.85 crore as on 
+March 31, 2026, reflecting the outstanding 
+repo transactions.
+d.	
+Deposits-Others 
+	
+‘Deposits-Others’ consist of balances of 
+Administrators of RBI Employee Provident 
+Fund, DEA Fund, Foreign Central Banks, 
+Indian and International Financial Institutions, 
+MAF, PIDF, amount outstanding under 
+Reverse Repo, SDF, etc. ‘Deposits-Others’ 
+increased by 54 per cent from ₹6,08,200.19 
+crore as on March 31, 2025 to ₹9,36,737.89 
+ANNUAL REPORT 2025-26
+184
+crore as on March 31, 2026, primarily due to 
+increase in deposits under SDF and Reverse 
+Repo by Government of India (GoI).
+XII.4.5 Risk Provisions
+The Reserve Bank makes risk provisioning in terms 
+of Section 47 of the RBI Act, 1934. Risk provisions 
+maintained by the Reserve Bank comprise 
+Contingency Fund (CF) and Asset Development 
+Fund (ADF). These risk provisions, along with 
+Capital and Reserve Fund, are components of the 
+Reserve Bank’s Available Realised Equity (ARE) 
+under the Economic Capital Framework1 (ECF) 
+adopted by the Reserve Bank. Details of Capital 
+and Reserve Fund have been given in earlier 
+paragraphs. Details of the two risk provisions are 
+as under:
+a.	
+Contingency Fund (CF)
+	
+This is a specific provision meant for meeting 
+unexpected and unforeseen contingencies, 
+including depreciation in value of securities, 
+risks arising out of monetary/ exchange rate 
+policy operations, systemic risks and any risk 
+arising on account of special responsibilities 
+enjoined upon the Reserve Bank. As on 
+March 31, 2026, amounts of ₹90,833.07 
+crore, ₹30,603.99 crore and ₹43,403.23 
+crore were charged to CF on account of debit 
+balances in Investment Revaluation Account 
+(IRA) - Foreign Securities, Investment 
+Revaluation Account (IRA) - Rupee Securities 
+and Foreign Exchange Forward Contracts 
+Valuation Account (FCVA), respectively. The 
+charge to CF is reversed on first working day 
+of the following accounting year. Further, 
+an amount of ₹1,09,379.64 crore was 
+also provided towards CF to maintain the 
+Available Realised Equity at the level of 6.5 
+per cent of the size of the balance sheet. 
+Accordingly, balance in CF as on March 31, 
+2026 was ₹5,68,333.19 crore as compared 
+to ₹5,42,426.96 crore as on March 31, 2025.
+b.	
+Asset Development Fund (ADF) 
+	
+Asset Development Fund was created in 
+1997-98 and the balance therein represents 
+provision specifically made till date towards 
+investments in subsidiaries and associate 
+institutions and to meet internal capital 
+expenditure. No provision was made towards 
+ADF in the year 2025-26. As on March 31, 
+2026, the balance in ADF at ₹22,974.68 
+crore remained the same as on March 31, 
+2025 (Table XII.2).
+XII.4.6 Revaluation Accounts
+The unrealised marked-to-market gains/ losses 
+are recorded in revaluation heads, viz., Currency 
+and 
+Gold 
+Revaluation 
+Account 
+(CGRA), 
+Investment Revaluation Accounts (IRA) and 
+Foreign Exchange Forward Contracts Valuation 
+Account (FCVA). Details of the same are given 
+here:
+a.	
+Currency and Gold Revaluation Account 
+(CGRA)
+	
+The major market risks faced by the Reserve 
+Bank are currency risk, interest rate risk and 
+movement in gold prices. Unrealised gains/ 
+losses on valuation of Foreign Currency 
+Assets (FCA) and Gold are not taken to 
+income account and instead accounted for 
+in CGRA. Net balance in CGRA, therefore, 
+1	 Based on the Report of the Expert Committee to Review the Extant Economic Capital Framework of the Reserve Bank of India, the 
+ECF was adopted by the Central Board of the Reserve Bank in August 2019. Subsequently, the Bank undertook an internal review of the 
+framework, and the revised framework was approved by the Central Board in May 2025.
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+185
+varies with the size of the asset base, its 
+valuation and movement in the exchange 
+rate and price of gold. CGRA provides a 
+buffer against exchange rate/ gold price 
+fluctuations. It can come under pressure if 
+there is an appreciation of rupee vis-à-vis 
+major currencies or a fall in price of gold. 
+When CGRA is not sufficient to fully meet 
+exchange losses or gold price losses, it is 
+replenished from CF. The balance in CGRA 
+increased from ₹13,02,964.89 crore as on 
+March 31, 2025 to ₹21,68,530.23 crore as on 
+March 31, 2026 mainly due to depreciation of 
+rupee against major currencies and increase 
+in price of gold.
+b.	
+Investment 
+Revaluation Account-Foreign 
+securities (IRA-FS)
+	
+Foreign dated securities are marked-to-
+market on a daily basis and unrealised gains/ 
+losses therefrom are accounted for in IRA-
+FS. The balance in IRA-FS decreased from 
+₹(-)81,366.87 crore as on March 31, 2025 to 
+₹(-)90,833.07 crore as on March 31, 2026 
+due to hardening of yields across the yield 
+curve in major jurisdictions. As per the extant 
+policy, debit balance of ₹90,833.07 crore 
+in IRA-FS was adjusted against the CF on 
+March 31, 2026 which was reversed on the 
+first working day of the following accounting 
+year. Accordingly, balance in IRA-FS as on 
+March 31, 2026 was Nil.
+c.	
+Investment 
+Revaluation 
+Account-Rupee 
+Securities (IRA-RS)
+	
+Rupee Securities and Oil Bonds (with 
+exception as mentioned under Significant 
+Accounting Policies) are marked-to-market 
+as on the last business day of each week 
+ending Friday and the last business day of 
+each month and the unrealised gains/losses 
+arising therefrom are accounted for in IRA-
+RS. The balance in IRA-RS decreased from 
+₹16,843.35 crore as on March 31, 2025, to 
+₹(-) 30,603.99 crore as on March 31, 2026 
+due to hardening of yields across the curve. 
+Table XII.2: Balances in Capital, Reserve Fund and Risk Provisions  
+[Available Realised Equity (ARE)]
+(₹ crore)
+As on
+Capital
+Reserve Fund
+Balance in CF
+Balance in ADF
+ARE
+ARE as a per cent 
+of balance sheet
+1
+2
+3
+4
+5
+6 = (2+3+4+5)
+7
+March 31, 2022
+5.00
+6,500.00
+3,10,986.94@
+22,974.68$
+3,40,466.62
+5.5
+March 31, 2023
+5.00
+6,500.00
+3,51,205.69$$
+22,974.68
+3,80,685.37
+6.0
+March 31, 2024
+5.00
+6,500.00
+4,28,621.03*
+22,974.68
+4,58,100.71
+6.5
+March 31, 2025
+5.00
+6,500.00
+5,42,426.96^
+22,974.68
+ 5,71,906.64
+7.5
+March 31, 2026
+5.00
+6,500.00
+5,68,333.19^^
+22,974.68
+5,97,812.87
+6.5
+@	 :	 Increase in CF is the net impact of provision of ₹1,14,567.01 crore and charging of the debit balance in IRA-FS amounting to ₹94,249.54 
+crore.
+$	
+: 	Increase in ADF is due to provision of ₹100 crore on account of investment in RBIH.
+$$	 : 	Increase in CF is the net impact of provision of ₹1,30,875.75 crore and charging of debit balances of ₹1,65,488.93 crore and ₹19,417.61 
+crore, in IRA-FS and IRA-RS, respectively.
+*	
+: 	Increase in CF is the net impact of provision of ₹42,819.91 crore and charging of debit balances of ₹1,43,220.82 crore and ₹7,090.29 
+crore, in IRA-FS and IRA-RS, respectively.
+^	
+: 	Increase in CF is the net impact of provision of ₹44,861.70 crore and charging of debit balance of ₹81,366.87 crore in IRA-FS.
+^^	 :	 Increase in CF is the net impact of provision of ₹1,09,379.64 crore and charging of debit balance of ₹90,833.07 crore, ₹43,403.23 crore 
+and ₹30,603.99 crore in IRA-FS, FCVA and IRA-RS, respectively.
+ANNUAL REPORT 2025-26
+186
+As per the extant policy, debit balance of 
+₹30,603.99 crore in IRA-RS was adjusted 
+against the CF on March 31, 2026 which 
+was reversed on the first working day of 
+the following accounting year. Accordingly, 
+balance in IRA-RS as on March 31, 2026 
+was Nil.
+d.	
+Foreign 
+Exchange 
+Forward 
+Contracts 
+Valuation Account (FCVA)
+	
+Marking to Market of outstanding forward 
+contracts as on March 31, 2026 resulted 
+in net unrealised loss of ₹43,403.23 crore, 
+which was debited to FCVA with contra 
+credit to Provision for Forward Contracts 
+Valuation Account (PFCVA) as compared to 
+net unrealised gain of ₹6,985.19 crore as on 
+March 31, 2025. As per the extant policy, the 
+debit balance of ₹43,403.23 crore in FCVA 
+was adjusted against the CF on March 31, 
+2026 which was reversed on the first working 
+day of the following year. Accordingly, balance 
+in FCVA as on March 31, 2026 was Nil.
+XII.4.7 Other Liabilities
+‘Other Liabilities’ increased by 21.1 per cent 
+from ₹3,21,248.79 crore as on March 31, 2025 
+to ₹3,89,074.99 crore as on March 31, 2026, 
+primarily due to increase in Provision for Forward 
+Contracts Valuation Account and surplus payable 
+to the Central Government.
+i.	
+Provision for Forward Contracts Valuation 
+Account (PFCVA)
+	
+Marked-to-market net loss on outstanding 
+forward contracts was credited to PFCVA as 
+explained above. The balance in PFCVA as 
+on March 31, 2026 was ₹43,403.23 crore, as 
+against ‘Nil’ balance as on March 31, 2025.
+	
+Balances in Revaluation Accounts and 
+PFCVA for the last five years are given in 
+Table XII.3.
+ii. 	 Provision for Payables
+	
+This represents year-end provisions made 
+for expenditure incurred but not defrayed 
+and income received in advance/payable, if 
+any. The balance under this head increased 
+by 87.9 per cent from ₹4,088.31 crore as on 
+March 31, 2025 to ₹7,682.46 crore as on 
+March 31, 2026. 
+iii. 	 Surplus Payable to the Central Government
+	
+Under Section 47 of the RBI Act, 1934, after 
+making provisions for bad and doubtful debts, 
+depreciation in assets, contribution to staff 
+and superannuation funds and for all matters 
+for which provisions are to be made by or 
+Table XII.3: Balances in Currency and Gold Revaluation Account (CGRA), Investment Revaluation 
+Account-Foreign Securities (IRA-FS), Investment Revaluation Account-Rupee Securities (IRA-
+RS), Foreign Exchange Forward Contracts Valuation Account (FCVA) and Provision for Forward 
+Contracts Valuation Account (PFCVA) 
+(₹ crore)
+As on
+CGRA
+IRA-FS
+IRA-RS
+FCVA
+PFCVA
+1
+2
+3
+4
+5
+6
+March 31, 2022
+9,13,389.29
+0.00
+18,577.81
+2,576.90
+0.00
+March 31, 2023
+11,24,733.16
+0.00
+0.00
+1,354.96
+0.00
+March 31, 2024
+11,30,793.34
+0.00
+0.00
+170.37
+0.00
+March 31, 2025
+13,02,964.89
+0.00
+16,843.35
+6,985.19
+0.00
+March 31, 2026
+21,68,530.23
+0.00
+0.00
+0.00
+43,403.23
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+187
+under the Act or that are usually provided 
+by bankers, the balance of the profits of the 
+Reserve Bank is required to be paid to the 
+Central Government. Under Section 48 of the 
+RBI Act, 1934, the Reserve Bank is not liable 
+to pay income tax or super tax on any of its 
+income, profits or gains. Accordingly, after 
+adjusting the expenditure including provision 
+for CF and contribution of ₹4 crore to four 
+statutory funds, the surplus payable to the 
+Central Government for the year 2025-26 
+amounted to ₹2,86,588.46 crore (including 
+₹114.31 crore as against ₹228.62 crore 
+in the previous year payable towards the 
+difference in interest expenditure borne by the 
+Government, consequent on conversion of 
+special securities into marketable securities).
+iv. 	 Bills Payable
+	
+The Reserve Bank provides remittance 
+facilities for its constituents through issue 
+of Demand Drafts (DDs) and Payment 
+Orders (POs), besides electronic payment 
+mechanism. The balance under this head 
+represents unclaimed DDs/POs. The amount 
+outstanding under this head increased from 
+₹0.09 crore as on March 31, 2025 to ₹6.80 
+crore as on March 31, 2026.
+v. 	 Miscellaneous
+	
+This is a residual head representing items 
+such as interest earned on earmarked 
+securities, amounts payable on account 
+of leave encashment, medical provisions 
+for employees, global provision, etc. The 
+balance under this head decreased from 
+₹12,099.75 crore as on March 31, 2025 to 
+₹11,988.74 crore as on March 31, 2026. 
+XII.4.8 Liabilities of Issue Department-Notes 
+Issued
+Liabilities of Issue Department reflect quantum 
+of currency notes in circulation. Section 34(1) 
+of the RBI Act, 1934 requires that all bank notes 
+issued by the Reserve Bank since April 1, 1935, 
+and currency notes issued by the Government of 
+India before the commencement of operations of 
+the Reserve Bank, be part of the liabilities of the 
+Issue Department. 
+‘Notes Issued’2 increased by 11.8 per cent from 
+₹36,87,827.04 crore as on March 31, 2025, to 
+₹41,24,766.88 crore as on March 31, 2026. The 
+value of bank notes in circulation in digital form 
+CBDC-R, i.e., e₹-Retail (e₹-R) stood at ₹771.66 
+crore as on March 31, 2026, as compared to 
+₹1,016.46 crore as on March 31, 2025.
+The value of bank notes in circulation in digital 
+form CBDC-W, i.e., e₹-wholesale (e₹-W) stood at 
+Nil as on March 31, 2026 and as on March 31, 
+2025. e₹-W is being used for settling large value 
+transactions among financial institutions. Owing 
+to the auto-redemption feature exercised by the 
+participating banks and non-banks, balances in 
+e₹-W are redeemed back to the underlying current 
+account at the end of the day and, therefore, the 
+balances need not be construed to reflect the 
+transaction volumes and values.
+Earlier, 
+an 
+amount 
+of 
+₹10,719.37 
+crore, 
+representing the value of Specified Bank Notes 
+(SBNs) not paid was transferred to ‘Other 
+Liabilities’ as on June 30, 2018. The Reserve 
+Bank has made payments to the extent of ₹5.42 
+crore towards exchange value of SBNs to eligible 
+tenderers during the year ended March 31, 2026, 
+and the cumulative payment made against the 
+head stands at ₹51.84 crore.
+2	 Include bank notes in physical and digital form.
+ANNUAL REPORT 2025-26
+188
+XII.5 ASSETS OF THE RESERVE BANK
+XII.5.1 ASSETS OF BANKING DEPARTMENT
+i)	
+Notes, Rupee Coin, Small Coin
+	
+This head represents the bank notes, one-
+rupee notes, rupee coins of ₹1, 2, 5, 10 and 
+20 and small coins kept for meeting day-
+to-day requirements of banking functions 
+conducted by the Reserve Bank. The balance 
+as on March 31, 2026 was ₹11.72 crore as 
+against ₹11.26 crore as on March 31, 2025.
+ii)	
+Gold-Banking Department (BD)
+	
+As on March 31, 2026, total gold held by the 
+Reserve Bank was 880.52 metric tonnes as 
+compared to 879.58 metric tonnes as on 
+March 31, 2025, reflecting an increase of 
+0.94 metric tonnes of gold in the year. 
+	
+Of the 880.52 metric tonnes, 312.32 metric 
+tonnes of gold is held as an asset of the Issue 
+Department as compared to 311.38 metric 
+tonnes as on March 31, 2025. The remaining 
+568.20 metric tonnes, same as on March 31, 
+2025 (Table XII.4) is treated as an asset of 
+the Banking Department. 
+	
+The value of gold (including Gold Deposits) 
+held as an asset of Banking Department 
+increased by 63.6 per cent from ₹4,31,624.80 
+crore as on March 31, 2025 to ₹7,06,162.36 
+crore as on March 31, 2026. This increase 
+is due to increase in price of gold and 
+depreciation of INR vis-à-vis USD.
+iii)	 Bills Purchased and Discounted
+	
+The Reserve Bank can undertake purchase 
+and 
+discounting 
+of 
+commercial 
+bills 
+under the RBI Act, 1934. No such activity 
+was undertaken in the year 2025-26. 
+Consequently, there was no such asset in 
+the books of the Reserve Bank as on March 
+31, 2026.
+iv)	 Investments-Foreign-Banking 
+Department (BD)
+	
+Foreign Currency Assets (FCA) of the 
+Reserve Bank include: (i) deposits with 
+other central banks; (ii) deposits with the 
+Bank for International Settlements (BIS); 
+(iii) 
+deposits 
+with 
+commercial 
+banks 
+overseas; (iv) investments in foreign T-Bills 
+and securities; and (v) Special Drawing 
+Rights (SDR) acquired from the Government 
+of India (GoI). 
+	
+FCA is reflected under two heads in the 
+balance sheet: (a) ‘Investments-Foreign-BD’ 
+shown as an asset of Banking Department, 
+and (b) ‘Investments-Foreign-ID’ shown as 
+an asset of Issue Department.
+	
+‘Investments-Foreign-ID’ are FCA, eligible as 
+per Section 33(6) of the RBI Act, 1934, used 
+for backing of Notes Issued. The remaining of 
+FCA constitutes ‘Investments-Foreign-BD’. 
+	
+The position of FCA for the last two years 
+has been given in Table XII.5.
+Table XII.4: Physical holding of Gold
+ 
+As on March 
+31, 2025
+As on March 
+31, 2026
+Volume in 
+metric tonnes
+Volume in 
+metric tonnes
+1
+2
+3
+Gold held as backing for Notes 
+Issued (held in India)
+311.38
+312.32
+Gold (including Gold Deposit) 
+held as asset of Banking 
+Department (held in India and 
+abroad)
+568.20#
+568.20*
+Total 
+879.58
+880.52
+#: 200.60 metric tonnes held in India and 367.60 metric tonnes 
+held abroad.
+*: 367.73 metric tonnes held in India and 200.47 metric tonnes 
+held abroad.
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+189
+Table XII.5: Details of Foreign Currency Assets (FCA)
+ (₹ crore)
+Particulars
+As on March 31
+2025
+2026
+1
+2
+3
+I
+Investments-Foreign-BD*
+14,32,572.10
+15,32,082.73
+II
+Investments-Foreign-ID
+34,50,960.74
+37,36,151.53
+Total
+48,83,532.84
+52,68,234.26
+*: Includes shares in BIS and Society for Worldwide Interbank Financial Telecommunications (SWIFT) and SDR transferred from GoI valued at 
+₹15,619.92 crore as on March 31, 2026 compared to ₹13,361.50 crore as on March 31, 2025. 
+Notes: 	1. 	The Reserve Bank has agreed to make resources available under the IMF’s New Arrangements to Borrow (NAB). Effective January 1, 
+2021, India’s commitment under NAB stands at SDR 8.88 billion (₹1,14,364.00 crore/ US$ 12.06 billion). As on March 31, 2026, no 
+investments are outstanding under NAB. 
+	
+2. 	The Reserve Bank has agreed to invest up to an amount, the aggregate of which shall not exceed US$ 5 billion (₹47,415.65 crore), 
+in the bonds issued by India Infrastructure Finance Company (UK) Limited. As on March 31, 2026, the Reserve Bank has invested 
+US$ 0.40 billion (₹3,793.25 crore) in such bonds.
+	
+3. 	During the year 2013-14, the Reserve Bank and GoI entered into a MoU for transfer of SDR holdings from GoI to RBI in a phased 
+manner. As on March 31, 2026, SDR 1.18 billion (₹15,236.92 crore/ US$ 1.61 billion) were held by the Reserve Bank.
+	
+4. 	With a view to strengthening regional financial and economic cooperation, the Reserve Bank has agreed to offer an amount of US$ 2 
+billion both in foreign currency and Indian Rupee under SAARC Swap Arrangement to SAARC member countries. As on March 31, 
+2026, amount lent under SAARC and ACU currency swap arrangements stood at US$ 1.25 billion (₹11,837.16 crore).
+	
+5. 	The nominal value of foreign securities posted as collateral and margin in repurchase and IRF transactions was ₹1,85,563.08 
+crore/ US$ 19.57 billion and the nominal value of those received under reverse repurchase transactions was ₹1,83,158.73 crore/ 
+US$  19.31 billion as on March 31, 2026. 
+	
+6. 	The nominal value of foreign securities lent under Security Lending arrangement was ₹1,13,685.01 crore/ US$ 11.99 billion as on 
+March 31, 2026.
+	
+7. 	The Notional amount of IRF contracts and currency futures contracts was US$ 3.62 billion and US$ 1.40 billion, respectively. 
+The notional amount of futures contracts is used to compute daily margin payable/receivable and does not necessarily require 
+settlement.
+	
+8. 	The notional amount payable/receivable as part of cross-currency forwards/swaps (other than USD-INR deals) was US$ 4.14 billion.
+v)	
+Investments-Domestic-Banking 
+Department (BD) 
+	
+Investments comprise dated Government 
+Rupee 
+Securities, 
+State 
+Government 
+Securities and Oil Bonds. The Reserve 
+Bank’s domestic securities holdings rose by 
+44.9 per cent, increasing from ₹15,58,573.83 
+crore on March 31, 2025 to ₹22,58,591.14 
+crore as of March 31, 2026. The increase 
+was mainly on account of net purchase of 
+government securities in the portfolio.
+	
+A part of Investments-Domestic-BD is also 
+earmarked for various staff funds, DEA Fund 
+and PIDF as explained in para 2.5(d). As on 
+March 31, 2026, ₹1,61,895.59 crore (face 
+value) was earmarked for the said funds.
+vi)	 Loans and Advances
+	
+a) 	 Central and State Governments 
+	
+	
+Reserve 
+Bank 
+extends 
+short-term 
+financial accommodation in the form 
+of Ways and Means Advances (WMA) 
+and Overdraft (OD) to the Central 
+Government and in the form of WMA, 
+OD and Special Drawing Facility (SDF) 
+to States/Union Territories in terms of 
+Section 17(5) of the RBI Act, 1934. The 
+WMA limit, for the Central Government, 
+is fixed in consultation with GoI. The 
+WMA limit for States/Union Territories 
+are fixed based on the recommendations 
+of an Advisory Committee constituted 
+ANNUAL REPORT 2025-26
+190
+by the Reserve  Bank. The Central 
+Government did not avail WMA as on 
+March 31, 2026 and March 31, 2025, 
+respectively. The loans and advances 
+to State Governments decreased from 
+₹32,688.09 crore as on March 31, 2025 
+to ₹32,506.59 crore as on March 31, 
+2026.
+	
+b) 	 Loans and advances to Commercial 
+Banks, Co-operative Banks, NABARD, 
+and others 
+	
+	
+●	
+Loans and advances to Commercial 
+and Co-operative Banks: 
+	
+	
+	
+These include amounts outstanding 
+as Repo under Liquidity Adjustment 
+Facility (LAF), Marginal Standing 
+Facility (MSF) and special liquidity 
+facility to banks. The amount 
+outstanding increased by 0.9 per 
+cent from ₹2,53,663.00 crore as 
+on March 31, 2025 to ₹2,56,062.00 
+crore as on March 31, 2026 due to 
+increase in funds availed by banks 
+under Repo operations. 
+	
+	
+●	
+Loans and advances to NABARD:
+	
+	
+	
+The Reserve Bank can extend loans 
+to NABARD under Section 17(4E) 
+of the RBI Act, 1934. No loans and 
+advances were outstanding as on 
+March 31, 2026, same as on March 
+31, 2025 and accordingly, balance 
+in this account was Nil.
+	
+	
+●	
+Loans and advances to others:
+	
+	
+	
+The balance under this head 
+represents loans and advances 
+to National Housing Bank (NHB), 
+Small 
+Industries 
+Development 
+Bank of India (SIDBI) and liquidity 
+support provided to Primary Dealers 
+(PDs). The balance under this head 
+decreased by 28.1 per cent from 
+₹36,426.09 crore as on March 31, 
+2025 to ₹26,190.46 crore as on 
+March 31, 2026.
+	
+c) 	 Loans and advances to Financial 
+Institutions Outside India
+	
+	
+Balances under the head increased by 
+45.1 per cent from ₹1,11,933.06 crore as 
+on March 31, 2025 to ₹1,62,459.64 crore 
+as on March 31, 2026, reflecting the 
+outstanding reverse repo transactions.
+vii)	 Investment in Subsidiaries/Associates
+	
+The position of investment in subsidiaries/ 
+associate institutions as on March 31, 2026 
+is given in Table XII.6. Total holding as on 
+March 31, 2026 was ₹2,063.60 crore, same 
+as on March 31, 2025. 
+viii)	Other Assets
+	
+‘Other Assets’ comprise fixed assets (net 
+of depreciation), accrued income, Swap 
+Amortisation Account (SAA), Revaluation 
+of Forward Contracts Account (RFCA) and 
+miscellaneous assets. Miscellaneous assets 
+mainly comprise of loans and advances 
+to staff, amount spent on projects pending 
+completion, security deposit paid, etc. The 
+amount outstanding under ‘Other Assets’ 
+increased by 23.3 per cent from ₹78,039.06 
+crore as on March 31, 2025 to ₹96,223.96 
+crore as on March 31, 2026. 
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+191
+	
+a.	
+Swap Amortisation Account (SAA)
+	
+	
+As on March 31, 2026, as well as on 
+March 31, 2025, the balance in SAA 
+was Nil as there were no outstanding 
+contracts of swaps which were in nature 
+of repo at off-market rate.
+	
+b.	
+Revaluation 
+of 
+Forward 
+Contracts 
+Account (RFCA)
+	
+	
+RFCA had ‘Nil’ balance as on March 
+31, 2026 as against ₹6,985.19 crore on 
+March 31, 2025.
+XII.5.2 Assets of Issue Department 
+The eligible assets of the Issue Department held 
+as backing for Notes Issued consist of gold coins, 
+gold bullion, foreign securities, rupee coins, 
+rupee securities and domestic bills of exchange 
+and other commercial papers. The Reserve Bank 
+holds 880.52 metric tonnes of gold as on March 
+31, 2026 (Table XII.4), of which 312.32 metric 
+tonnes are held as backing for Notes Issued. The 
+value of gold held as an asset of Issue Department 
+increased by 64.1 per cent from ₹2,36,537.54 
+crore as on March 31, 2025 to ₹3,88,147.13 crore 
+as on March 31, 2026. This increase in the value 
+of gold during the year is on account of, increase 
+in price of gold and depreciation of INR vis-à-vis 
+USD. 
+Investments-Foreign-ID increased by 8.3 per cent 
+from ₹34,50,960.74 crore as on March 31, 2025 
+to ₹37,36,151.53 crore as on March 31, 2026, 
+consequent upon increase in notes issued.
+The balance of Rupee Coins held by the Issue 
+Department increased by 42.4 per cent from 
+₹328.76 crore as on March 31, 2025 to ₹468.22 
+crore as on March 31, 2026.
+FOREIGN EXCHANGE RESERVES
+XII.6 
+Foreign 
+Exchange 
+Reserves 
+(FER) 
+comprise Foreign Currency Assets (FCA), Gold 
+(including Gold Deposit), Special Drawing Rights 
+(SDR) holdings and Reserve Tranche Position 
+(RTP). SDR holdings acquired from GoI form 
+part of the Reserve Bank’s balance sheet and 
+are included under ‘Investments-Foreign-BD’. 
+SDR holdings remaining with GoI and RTP, which 
+represents India’s quota contribution to IMF in 
+foreign currency, is not a part of the Reserve 
+Bank’s balance sheet. The position of FER as 
+on March 31, 2025 and March 31, 2026 in Indian 
+Rupees and US dollar, which is the numéraire 
+currency for the Reserve Bank’s FER, has been 
+given in Tables XII.7 (a) and (b). 
+Table XII.6: Holdings in Subsidiaries/ Associates
+(₹ crore)
+2024-25
+2025-26
+Per cent holding as on 
+March 31, 2026
+1
+2
+3
+4
+a) Deposit Insurance and Credit Guarantee Corporation (DICGC)
+50.00
+50.00
+100
+b)
+Bharatiya Reserve Bank Note Mudran (P) Ltd. (BRBNMPL)
+1,800.00
+1,800.00
+100
+c)
+Reserve Bank Information Technology (P) Ltd. (ReBIT)
+50.00
+50.00
+100
+d)
+National Centre for Financial Education (NCFE)
+30.00
+30.00
+30
+e)
+Indian Financial Technology & Allied Services (IFTAS)
+33.60
+33.60
+100
+f)
+Reserve Bank Innovation Hub (RBIH)
+100.00
+100.00
+100
+Total
+2,063.60
+2,063.60
+ANNUAL REPORT 2025-26
+192
+ANALYSIS OF INCOME AND EXPENDITURE
+INCOME
+XII.7 The components of Reserve Bank’s income 
+are ‘Interest’ and ‘Other Income’ including: (i) 
+Discount, (ii) Exchange, (iii) Commission, (iv) 
+Amortisation of premium/ discount on Foreign 
+and Rupee Securities, (v) Profit/ Loss on sale 
+and redemption of Foreign and Rupee Securities, 
+(vi) Depreciation on Rupee Securities inter-
+portfolio transfer, (vii) Rent Realised, (viii) Profit/ 
+Loss on sale of Bank’s property, (ix) Provision no 
+longer required, and (x) Miscellaneous Income. 
+Certain items of income such as interest on LAF 
+Repo, Repo in foreign security and exchange 
+gain/ loss from foreign exchange transactions are 
+reported on net basis.
+Table XII.7(a): Foreign Exchange Reserves (Rupee)
+(₹ crore)
+Components
+As on
+Variation
+March 31, 2025
+March 31, 2026
+Absolute
+Per Cent
+1
+2
+3
+4
+5
+Foreign Currency Assets (FCA)
+48,50,833.99^
+52,37,366.94#
+3,86,532.95
+8.0
+Gold (including Gold Deposit)
+6,68,162.34@
+10,94,309.49*
+4,26,147.15
+63.8
+Special Drawing Rights (SDR)
+1,55,289.18
+1,76,589.25
+21,300.07
+13.7
+Reserve Tranche Position (RTP) in IMF
+37,855.07
+45,595.61
+7,740.54
+20.4
+Foreign Exchange Reserves (FER)
+57,12,140.58
+65,53,861.29
+8,41,720.71
+14.7
+^:	 Excludes (a) SDR Holdings of the Reserve Bank amounting to ₹13,024.49 crore, which is included under the SDR holdings; (b) Investment 
+of ₹3,418.74 crore in bonds issued by IIFC (UK); and (c) ₹16,255.62 crore lent under SAARC and ACU currency arrangements.
+#:	 Excludes (a) SDR Holdings of the Reserve Bank amounting to ₹15,236.92 crore, which is included under the SDR holdings; (b) Investment 
+of ₹3,793.25 crore in bonds issued by IIFC (UK); (c) ₹11,837.16 crore lent under SAARC and ACU currency arrangements, and (d) RBI’s 
+contribution of ₹53.32 crore to funding of Nexus Global Payments.
+@:	 Of this, Gold valued at ₹2,36,537.54 crore is held as an asset of Issue Department and Gold (including Gold Deposit) valued at ₹4,31,624.80 
+crore is held as an asset of Banking Department.
+*:	
+Of this, Gold valued at ₹3,88,147.13 crore is held as an asset of Issue Department and Gold (including Gold Deposit) valued at ₹7,06,162.36 
+crore is held as an asset of Banking Department.
+Table XII.7(b): Foreign Exchange Reserves (USD)
+(US$ billion)
+Components
+As on
+Variation
+March 31, 2025
+March 31, 2026
+Absolute
+Per cent
+1
+2
+3
+4
+5
+Foreign Currency Assets (FCA)
+567.56*
+552.28**
+-15.28
+-2.7
+Gold (including Gold Deposit)
+78.18
+115.40
+37.22
+47.6
+Special Drawing Rights (SDR)
+18.17
+18.62
+0.45
+2.5
+Reserve Tranche Position (RTP) in IMF
+4.42
+4.81
+0.39
+8.8
+Foreign Exchange Reserves (FER)
+668.33
+691.11
+22.78
+3.4
+*:	
+Excludes (a) SDR Holdings of the Reserve Bank amounting to US$ 1.52 billion, which is included under SDR holdings; (b) US$ 0.40 billion 
+invested in bonds of IIFC (UK); and (c) US$ 1.90 billion lent under the SAARC and ACU currency swap arrangements.
+ **:	 Excludes (a) SDR Holdings of the Reserve Bank amounting to US$ 1.61 billion, which is included under SDR holdings; (b) US$ 0.40 billion 
+invested in bonds of IIFC (UK); (c) US$ 1.25 billion lent under the SAARC and ACU currency swap arrangements; and (d) RBI’s contribution 
+of US$ 0.005 billion to funding of Nexus Global Payments.
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+193
+Earnings from Foreign Sources
+XII.8 The income from foreign sources increased 
+by 26.6 per cent, from ₹2,58,837.55 crore in the 
+year 2024-25 to ₹3,27,655.54 crore in the year 
+2025-26. The rate of earnings on foreign currency 
+assets was 6.4 per cent in the year 2025-26 as 
+compared to 5.3 per cent in the year 2024-25 
+(Table XII.8).
+Earnings from Domestic Sources
+XII.9 Net income from domestic sources increased 
+by 25.9 per cent from ₹79,470.54 crore in the year 
+2024-25 to ₹1,00,028.61 crore in the year 2025-
+26 mainly on account of increase in interest on 
+holding of Rupee Securities (Table XII.9).
+XII.10 Interest income on holding of Rupee 
+Securities 
+(including 
+Oil 
+Bonds) 
+increased 
+from ₹85,524.67 crore in the year 2024-25 to 
+₹1,17,739.57 crore in the year 2025-26.
+XII.11 Net Interest Income from Liquidity 
+Adjustment Facility (LAF)/ Marginal Standing 
+Facility (MSF)/ Standing Deposit Facility (SDF) 
+operations decreased from ₹(-)10,120.25 crore 
+in the year 2024-25 to ₹(-)19,162.97 crore in the 
+year 2025-26.
+XII.12 Profit on sale and redemption of Rupee 
+Securities decreased from ₹1,105.16 crore in 
+the year 2024-25 to ₹886.45 crore in the year 
+2025-26. 
+XII.13 Amortisation of Premium/Discount on 
+Rupee Securities (including Oil Bonds) resulted 
+in net income of ₹(-)5,024.58 crore in the year 
+2025-26 which is lower than ₹(-)2,681.71 crore in 
+the year 2024-25. 
+XII.14 There was no income from holding of 
+discounted instruments (T-Bills) in the year 
+2025-26, same as the year 2024-25. 
+XII.15 Interest on loans and advances
+a.	
+Central and State Governments: 
+	
+Interest income on loans and advances 
+extended to Central and State Governments, 
+taken together, decreased by 8.4 per cent 
+from ₹1,259.20 crore in the year 2024-25 
+to ₹1,153.80 crore in the year 2025-26. The 
+interest income from the Central Government 
+decreased by 98.6 per cent from ₹20.16 
+crore in the year 2024-25 to ₹0.28 crore in 
+the year 2025-26. Interest income from State 
+Governments decreased by 6.9 per cent 
+from ₹1,239.04 crore in the year 2024-25 
+to ₹1,153.52 crore in the year 2025-26. The 
+decline in overall interest income is attributed 
+to decrease in Repo Rate, and less availment 
+of financial accommodation by the Central 
+and State Governments through WMA/ OD.
+Table XII.8: Earnings from Foreign Sources
+(₹ crore)
+Item
+2024-25
+2025-26
+Variation
+Absolute
+Per cent
+1
+2
+3
+4
+5
+Foreign Currency Assets (FCA)
+48,83,532.84
+52,68,234.26
+3,84,701.42
+7.9
+Average FCA
+48,73,053.30
+50,99,520.01
+2,26,466.71
+4.6
+Earnings from FCA (interest, discount, exchange gain/loss, capital gain/ loss 
+on securities, etc.)
+2,58,837.55
+3,27,655.54
+68,817.99
+26.6
+Earnings from FCA as per cent of average FCA
+5.3
+6.4
+1.1
+20.8
+ANNUAL REPORT 2025-26
+194
+b.	
+Banks & Financial Institutions: 
+	
+Interest income from loans and advances to 
+banks and financial institutions decreased 
+by 8.5 per cent from ₹564.32 crore in the 
+year 2024-25 to ₹516.47 crore in the year 
+2025-26.
+c.	
+Employees:
+	
+Interest income from loans and advances to 
+employees increased by 18.6 per cent from 
+₹99.25 crore in the year 2024-25 to ₹117.67 
+crore in the year 2025-26.
+XII.16 Commission: This income increased by 9.5 
+per cent from ₹4,131.64 crore in the year 2024-
+25 to ₹4,523.37 crore in the year 2025-26, on 
+account of increase in management commission 
+received for servicing of outstanding Central 
+Government and State Government loans, and 
+increase in floatation charges of issuances. 
+XII.17 Rent Realised, Profit/ Loss on sale of 
+Bank’s property, Provision no longer required 
+and Miscellaneous Income: Earnings from these 
+income heads decreased from ₹(-)342.24 crore in 
+the year 2024-25 to ₹(-) 675.68 crore in the year 
+2025-26.
+Table XII.9: Earnings from Domestic Sources 
+(₹ crore)
+ Item
+2024-25
+2025-26
+Variation
+Absolute
+Per cent
+1
+2
+3
+4
+5
+Earnings (I+II+III+IV)
+79,470.54
+1,00,028.61
+20,558.07
+25.9
+I.	
+Earnings from Rupee Securities and discounted instruments
+	
+i)	 Interest on holding of Rupee Securities (including Oil Bonds)
+85,524.67
+1,17,739.57
+32,214.90
+37.7
+	
+ii)	 Profit/Loss on sale and redemption of Rupee Securities
+1,105.16
+886.45
+-218.71
+-19.8
+	
+iii)	Depreciation on Rupee securities inter-portfolio transfer
+-69.50
+-45.49
+24.01
+34.5
+	
+iv)	Amortisation of premium/discount on Rupee securities (including Oil Bonds)
+-2,681.71
+-5,024.58
+-2,342.87
+-87.4
+	
+v)	 Discount
+0.00
+0.00
+0.00
+0.0
+Sub total (i+ii+iii+iv+v)
+83,878.62
+1,13,555.95
+29,677.33
+35.4
+II.	 Interest on LAF/MSF/SDF
+	
+i)	 Net Interest on LAF Operations
+-4,739.82
+-8,681.73
+-3,941.91
+-83.2
+	
+ii)	 Interest on SDF
+-5,844.65
+-10,599.55
+-4,754.90
+-81.4
+	
+iii)	Interest on MSF operations
+464.22
+118.31
+-345.91
+-74.5
+Sub total (i+ii+iii)
+-10,120.25
+-19,162.97
+-9,042.72
+-89.4
+III.	 Interest on other loans and advances
+	
+i)	 Government (Central & States)
+1,259.20
+1,153.80
+-105.40
+-8.4
+	
+ii)	 Banks & Financial Institutions
+564.32
+516.47
+-47.85
+-8.5
+	
+iii)	Employees
+99.25
+117.67
+18.42
+18.6
+Sub total (i+ii+iii)
+ 1,922.77
+1,787.94
+-134.83
+-7.0
+IV.	 Other Earnings
+	
+i)	 Exchange
+0.00
+0.00
+0.00
+0.0
+	
+ii)	 Commission
+4,131.64
+4,523.37
+391.73
+9.5
+	
+iii)	Rent Realised, Profit or Loss on sale of Bank’s Property, Provision no longer 
+required and Miscellaneous Income
+-342.24
+-675.68
+-333.44
+-97.4
+Sub total (i+ii+iii)
+3,789.40
+3,847.69
+58.29
+1.5
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+195
+EXPENDITURE
+XII.18 The Reserve Bank incurs expenditure in 
+the course of performing its statutory functions 
+by way of agency charges/ commission, printing 
+of notes, expenditure on remittance of currency, 
+besides employee related and other expenses. 
+Total expenditure of the Reserve Bank increased 
+by 102.4 per cent from ₹69,714.02 crore in the 
+year 2024-25 to ₹1,41,091.69 crore in the year 
+2025-26 (Table XII.10).
+i)	
+Interest
+	
+During the year 2025-26, an amount of 
+₹2.71 crore was paid as interest to Dr. B.R. 
+Ambedkar Birth Centenary Year Fund and 
+RBI Employees’ Benevolent Fund, which 
+was ₹27 lakh higher than interest payment 
+of ₹2.44 crore for the year 2024-25. This 
+increase in interest payment was due to 
+increase in Fund balances. 
+ii)	
+Employee Cost
+	
+The total employee cost increased by 10.8 
+per cent from ₹9,146.71 crore in the year 
+2024-25 to ₹10,136.31 crore in the year 2025-
+26 mainly on account of higher contribution 
+to various Staff Superannuation Funds in the 
+current year, due to pension revision. 
+iii)	 Agency Charges/ Commission 
+	
+a.	
+Agency Commission on Government 
+Transactions
+	
+	
+The Reserve Bank discharges the 
+function of banker to governments 
+through agency banks. The Reserve 
+Bank pays commission to agency banks 
+at prescribed rates for undertaking 
+government’s receipts and payments. 
+Net 
+agency 
+commission 
+payment 
+increased by 30.4 per cent from 
+₹3,531.76 crore in the year 2024-25 to 
+₹4,605.81 crore in the year 2025-26, 
+due to increase in agency commission 
+rates, w.e.f. April 1, 2025. 
+	
+b.	
+Underwriting 
+Commission 
+paid 
+to 
+Primary Dealers
+	
+	
+The 
+expenditure 
+on 
+account 
+of 
+underwriting commission paid to Primary 
+Dealers (PDs) increased from ₹15.78 
+crore in the year 2024-25 to ₹86.34 
+crore in the year 2025-26. The increase 
+in underwriting commission during the 
+current year may be attributed to the 
+prevailing market conditions amidst 
+intensification of geopolitical risks.
+Table XII.10: Expenditure
+(₹ crore)
+Item
+2021-22
+2022-23
+2023-24
+2024-25
+2025-26
+1
+2
+3
+4
+5
+6
+i.	
+Interest
+1.77
+1.92
+2.19
+2.44
+2.71
+ii.	 Employee Cost
+3,869.43
+6,003.93
+7,890.11
+9,146.71
+10,136.31
+iii.	 Agency Charges/Commission
+4,400.62
+4,068.62
+3,976.31
+3,669.56
+4,880.05
+iv.	 Printing of Notes
+4,984.80
+4,682.80
+5,101.40
+6,372.82
+4,875.20
+v.	 Provisions
+1,14,667.01
+1,30,875.75
+42,819.91
+44,861.70
+1,09,379.64
+vi.	 Others
+1,877.05
+2,404.02
+4,904.41
+5,660.79
+11,817.78
+Total (i+ii+iii+iv+v+vi)
+1,29,800.68
+1,48,037.04
+64,694.33
+69,714.02
+1,41,091.69
+ANNUAL REPORT 2025-26
+196
+	
+c.	
+Sundries 
+	
+	
+This includes expenses incurred on 
+handling charges, turnover commission 
+paid to banks for Relief/ Savings 
+Bonds 
+subscriptions/ 
+repayments 
+and commission paid on Securities 
+Borrowing and Lending Arrangement 
+(SBLA), etc. The commission paid under 
+this head increased from ₹6.47 crore in 
+the year 2024-25 to ₹11.18 crore in the 
+year 2025-26.
+	
+d. 	 Fees paid to the External Asset 
+Managers, Custodians, Brokers, etc.
+	
+	
+Expenditure under the head increased 
+from ₹115.55 crore in the year 2024-25 
+to ₹176.72 crore in the year 2025-26. 
+iv)	 Printing of Notes
+	
+The expenditure incurred on note printing 
+during the year 2025-26 was ₹4,875.20 
+crore as against ₹6,372.82 crore during the 
+previous year due to reduced indent of bank 
+notes for the year 2025-26.
+v)	
+Provisions
+	
+The ECF requires Contingent Risk Buffer 
+(CRB) to be maintained in the range of 4.5 
+per cent to 7.5 per cent of the size of the 
+balance sheet. The Central Board approved 
+that CRB may be maintained at 6.5 per cent of 
+the size of the balance sheet of the Reserve 
+Bank for the year 2025-26. Accordingly, a 
+provision of ₹1,09,379.64 crore was made 
+and transferred to CF during the year 
+(Table XII.2).
+vi)	 Others
+	
+Other 
+expenses 
+comprise 
+expenditure 
+on remittance of currency, printing and 
+stationery, audit fees and related expenses, 
+miscellaneous 
+expenses, 
+etc., 
+which 
+increased by 108.8 per cent from ₹5,660.79 
+crore in the year 2024-25 to ₹11,817.78 crore 
+in the year 2025-26. 
+Contingent Liabilities 
+XII.19 Total contingent liabilities of the Reserve 
+Bank amounted to ₹1,159.19 crore, the main 
+component of it being partly paid shares of Bank 
+for International Settlements (BIS), denominated 
+in SDR, held by the Reserve Bank. The uncalled 
+liability on these shares was ₹1,148.95 crore as 
+on March 31, 2026. The balances are callable 
+at three months’ notice by a decision of the BIS 
+Board of Directors.
+Prior Period Transactions 
+XII.20 For the purpose of disclosure, prior period 
+transactions of ₹1 lakh and above only have been 
+considered. The prior period transactions under 
+expenditure and income amounted to ₹460.44 
+crore and ₹0.19 crore, respectively.
+Payment to Micro and Small Enterprises 
+under the Micro, Small & Medium Enterprises 
+Development Act, 2006
+XII.21 The following table sets forth the cases 
+of delayed payments of the principal amount 
+or interest due thereon to Micro and Small 
+Enterprises:
+Previous Year’s Figures 
+XII.22 Figures for the previous year have been 
+rearranged, wherever necessary to make them 
+comparable with the current year. 
+THE RESERVE BANK’S ACCOUNTS FOR 2025-26
+197
+Auditors
+XII.23 The Statutory Auditors of the Reserve Bank 
+are appointed by the Central Government in terms 
+of Section 50 of the RBI Act, 1934. The accounts 
+of the Reserve Bank for the year 2025-26 were 
+audited by M/s Sorab S. Engineer & Co., Mumbai 
+and M/s Kalyaniwalla & Mistry LLP, Mumbai, as 
+the Statutory Central Auditors and M/s Lodha 
+& Co. LLP, Kolkata, M/s S. Viswanathan LLP, 
+Chennai and M/s Walker Chandiok & Co. LLP, 
+New Delhi as the Statutory Branch Auditors.
+(₹ crore)
+Particulars
+2024-25
+2025-26
+Principal
+Interest
+Principal
+Interest
+1
+2
+3
+4
+5
+i.	
+the principal amount and the interest due thereon remaining unpaid to any 
+supplier as at March 31;
+-
+-
+-
+-
+ii.	 the amount of interest paid by the buyer in terms of Section 16, along with the 
+amount of the payment made to the supplier beyond the appointed day during the 
+accounting year;
+0.0057
+0.0004
+1.61
+0.01
+iii.	 the amount of interest due and payable for the period of delay in making payment 
+(which have been paid but beyond the appointed day during the year) but without 
+adding the interest specified under the Act;
+-
+-
+-
+-
+iv.	 the amount of interest accrued and remaining unpaid at the end of the accounting 
+year;
+-
+-
+-
+-
+v.	 the amount of further interest remaining due and payable even in the succeeding 
+years, until such date when the interest dues as above are actually paid to the 
+small enterprise, for the purpose of disallowance as a deductible expenditure 
+under Section 23.
+NA
+NA
+NA
+NA
+-: Nil.         NA: Not Applicable.
