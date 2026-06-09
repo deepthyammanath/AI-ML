@@ -8,7 +8,7 @@ This repository documents hands-on projects in LLM fine-tuning, inference optimi
 ## Projects
 
 ### 1. Domain LLM Adaptation & Production Optimization
-**`assignment1b-domain-llm/`**
+
 
 End-to-end pipeline adapting a general-purpose LLM to the financial domain — from raw PDFs to a fine-tuned, quantized, production-benchmarked model.
 
